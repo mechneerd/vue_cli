@@ -11,7 +11,7 @@ export default {
  },
  methods:{
     newfun(){
-        console.log('okay')
+        console.log('Let se if it works')
     }
  }
 }
