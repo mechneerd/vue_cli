@@ -28,12 +28,12 @@ export default{
         },
         {
           id:2,
-          text:'bskdbs',
-          remainder:true,
+          text:'yykjbs',
+          remainder:false,
         },   
         {
           id:3,
-          text:'bskdbs',
+          text:'pkdbs',
           remainder:true,
         },         
       ]
